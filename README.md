@@ -5,7 +5,7 @@ ML-Based Network Intrusion Detection
 
 Using machine learning to identify potentially malicious network traffic and explore how reliable these detections are.
 
-Overview
+Overview.
 
 Network intrusion detection plays an important role in cybersecurity by helping identify traffic patterns that may indicate malicious activity.
 
